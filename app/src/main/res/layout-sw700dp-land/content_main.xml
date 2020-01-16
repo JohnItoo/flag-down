@@ -10,7 +10,7 @@
 
         <fragment
             android:id="@+id/settingsActivityFragment"
-            android:name="com.example.israel.flagquiz.SettingsActivityFragment"
+            android:name="com.itoo.labs.flagquiz.SettingsActivityFragment"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
@@ -18,7 +18,7 @@
 
         <fragment
             android:id="@+id/quizFragment"
-            android:name="com.example.israel.flagquiz.MainActivityFragment"
+            android:name="com.itoo.labs.flagquiz.MainActivityFragment"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="2"

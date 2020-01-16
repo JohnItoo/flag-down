@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:showIn="@layout/activity_main"
-    tools:context="com.example.israel.flagquiz.MainActivityFragment"
+    tools:context="com.itoo.labs.flagquiz.MainActivityFragment"
     android:orientation="vertical"
     android:id="@+id/quizLinearLayout"
     android:paddingLeft="@dimen/activity_horizontal_margin"
